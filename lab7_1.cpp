@@ -1,10 +1,9 @@
 #include <iostream>
 
 int main() {
-    int a  =  20; b = 30;
-    int c = 4, output;
+    double a = 20,b = 30;
+    double c = 4;
 
-    outpot = a - b/c;
-    count << output: << output << \n;
+    std :: cout << "output: " << (a + b)/ c << "\n";
     return 0;
 }
